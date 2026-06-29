@@ -19,22 +19,6 @@ I'm passionate about building **intelligent sensing systems** that combine **bio
 
 ---
 
-## 🚀 Current Research
-
-### Forearm Muscle Vibration Analysis Toward Adaptive Wearable Controller Design
-
-**Undergraduate Thesis**
-
-Exploring subject-specific wearable interfaces using **Mechanomyography (MMG)** through:
-
-* Muscle vibration analysis
-* Biomechanical modeling
-* Sensor placement optimization
-* Machine Learning
-* Adaptive wearable controller design
-
----
-
 ## 🛠️ Tech Stack
 
 ### Programming
@@ -73,7 +57,7 @@ Arduino • ESP32 • Biomedical Sensors • Rapid Prototyping • 3D Printing
 
 ## 📖 Publications
 
-📄 **Material Selection and Fiber Orientation Effects in Composite Overwrapped Steel Pipelines**
+📄 **Material Selection and Fiber Orientation Effects in Composite Overwrapped Steel Pipelines** *(Journal of Sustainable Smart Materials and Structural Systems)*
 
 📄 **"Not a Replacement, But a Companion": AI-Assisted Learning Among Engineering Students in Bangladesh** *(ICIET 2026)*
 
