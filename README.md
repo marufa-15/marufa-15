@@ -2,8 +2,6 @@
 
 ### 🎓 Robotics & Mechatronics Engineering Undergraduate | Undergraduate Researcher
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=marufa-15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 I'm passionate about building **intelligent sensing systems** that combine **biomedical engineering, robotics, and artificial intelligence**. My research focuses on translating engineering principles into practical healthcare and human–machine interaction technologies.
 
 ---
