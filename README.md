@@ -76,11 +76,9 @@ Arduino • ESP32 • Biomedical Sensors • Rapid Prototyping • 3D Printing
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marufa-15&style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marufa-15&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=marufa-15&theme=tokyonight)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=marufa-15&theme=tokyonight&no-frame=true)
 
 ---
 
