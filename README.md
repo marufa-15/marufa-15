@@ -196,7 +196,7 @@ I'm always open to collaborating on research at the intersection of **biomedical
 </p>
 
 </div>
----
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1B3C73,100:6C63FF&fontColor=FFFFFF&fontSize=55&desc=Engineering%20meaningful%20technologies%20through%20research,%20sensing,%20and%20intelligent%20system%20design.&descSize=17&animation=fadeIn&reversal=false&section=footer&descAlign=50&descAlignY=73" width="100%"/>
 
