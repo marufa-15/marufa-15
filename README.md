@@ -26,8 +26,8 @@
 class Researcher:
     def __init__(self):
         self.name        = "Marufa Akter"
-        self.role        = "Undergraduate Researcher | RME Engineer"
-        self.institution = "Your University"
+        self.role        = "Robotics and Mechatronics Engineering Undergraduate| Undergraduate Researcher"
+        self.institution = "University of Dhaka"
         self.focus       = ["Biomedical Signal Processing", "Rehabilitation Robotics",
                             "Wearable Sensing", "Human–Machine Interaction"]
         self.tools       = ["Python", "MATLAB", "C++", "PyTorch", "ANSYS", "Fusion 360"]
